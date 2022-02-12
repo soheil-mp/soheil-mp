@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working as a quantitative trading analyst at SoftGrab, and as an NLP mentor at Udacity.
+- 🔭 Currently working as a quantitative trading analyst at Grabsoft, and as an NLP mentor at Udacity.
 - 🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.
 - 👯 Looking to collaborate on mechatronic projects.
 - 🤔 Looking for help with any of the above.
