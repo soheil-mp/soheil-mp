@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS)
-
-![](https://gitwar.herokuapp.com/badge?username=soheil-mp)
+![](https://img.shields.io/badge/stars%20⭐-34-yellow) ![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS)
 
 - 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.
 - 🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.
