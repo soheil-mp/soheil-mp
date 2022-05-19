@@ -1,6 +1,6 @@
 ### Hi there, I'm Soheil! 👋
 
-![](https://img.shields.io/badge/stars%20⭐-170-yellow) ![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS)
+![](https://img.shields.io/badge/stars%20⭐-170-yellow) ![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS) <img alt="Forks" src="https://img.shields.io/github/forks/soheil-mp/soheil-mp?style=flat-square&labelColor=343b41"/>
 
 <img src="https://media4.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif?cid=ecf05e47rcrvltz3hmdz5px6me3ae82zn582t83dqfaaqskx&rid=giphy.gif&ct=g" width="200" height="200" />
 
