@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![](https://gitwar.herokuapp.com/badge?username=soheil-mp)
 
 - 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.
 - 🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.
