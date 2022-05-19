@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS)
+
 ![](https://gitwar.herokuapp.com/badge?username=soheil-mp)
 
 - 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.
