@@ -4,6 +4,8 @@
 
 ![Alt Text](https://media4.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif?cid=ecf05e47rcrvltz3hmdz5px6me3ae82zn582t83dqfaaqskx&rid=giphy.gif&ct=g)
 
+<img src="https://media4.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif?cid=ecf05e47rcrvltz3hmdz5px6me3ae82zn582t83dqfaaqskx&rid=giphy.gif&ct=g" width="40" height="40" />
+
 
 - 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.
 - 🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.
