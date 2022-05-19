@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/stars%20⭐-170-yellow) ![](https://komarev.com/ghpvc/?username=soheil-mp&label=PROFILE+VIEWS)
 
-![Alt Text]([https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM]([https://giphy.com/embed/MdksdzDIx7MpyQIEvW/video](https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM)))
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM))
 
 
 - 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.
