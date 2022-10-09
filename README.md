@@ -21,7 +21,7 @@
 <br>
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="128px"/>
+<img src="https://random-memer.herokuapp.com/" width="200px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=soheil-mp&icon=5&color=6)](https://visitcount.itsvg.in)
