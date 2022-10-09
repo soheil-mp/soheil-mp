@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=soheil-mp&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+
 # 💫 About Me:
 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.<br>🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.<br>👯 Looking to collaborate on mechatronic projects.<br>🤔 Looking for help with any of the above.<br>💬 Ask me about ML, DL, RL, NLP, CV.<br>📫 How to reach me: soheil.mpg@gmail.com
 
@@ -21,7 +25,5 @@
 <br>
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="200px"/>
+<img src="https://random-memer.herokuapp.com/" width="300px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=soheil-mp&icon=5&color=6)](https://visitcount.itsvg.in)
