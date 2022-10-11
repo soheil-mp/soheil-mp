@@ -2,7 +2,7 @@
 
 ---
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 Currently working as a quantitative trading analyst at SAS Group, and as an NLP mentor at Udacity.<br>🌱 Currently learning about utilization of intelligent algorithms on robotics and autonomous systems.<br>👯 Looking to collaborate on mechatronic projects.<br>🤔 Looking for help with any of the above.<br>💬 Ask me about ML, DL, RL, NLP, CV.<br>📫 How to reach me: soheil.mpg@gmail.com
 
 <br>
