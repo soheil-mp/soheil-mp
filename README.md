@@ -22,8 +22,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soheil-mp&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soheil-mp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
-
-## 😂 Random Dev Meme:
-<img src="https://random-memer.herokuapp.com/" width="300px"/>
-
