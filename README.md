@@ -4,5 +4,5 @@
 <!-- ![](https://i.imgur.com/lO3E9Gs.gif) -->
 
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
