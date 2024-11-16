@@ -12,7 +12,7 @@
 </div>
 
 ## 🚀 About Me
-Senior Data Scientist with 6+ years of experience specializing in advanced AI solutions, machine learning, and data infrastructure. Proven track record of delivering impactful solutions across quantitative trading, education, and consulting domains.
+Turning coffee into code and data into decisions! Senior Data Scientist with a knack for taming wild datasets and teaching machines to be smarter than your average bear. When I'm not crafting AI solutions, you'll find me diving deep into autonomous systems or orchestrating multi-agent symphonies. 6+ years of turning "that's impossible" into "done!"
 
 ## 🛠️ Technical Stack
 ### Core Technologies
