@@ -28,12 +28,13 @@ Turning coffee into code and data into decisions! Senior Data Scientist with a k
 - 💾 MySQL | PostgreSQL | SQLite | SQL Server
 
 ## 🔭 Current Ongoing Projects
-- 📚 [DocChat](https://github.com/soheil-mp/DocChat) - Intelligent document Q&A powered by RAG technology - transform your documents into interactive knowledge bases
-- 🌐 [WebVoyager](https://github.com/soheil-mp/WebVoyager) - AI-powered autonomous web navigation and interaction framework - explore, analyze, and interact with web content intelligently
-- 🤖 [AgentHub](https://github.com/soheil-mp/AgentHub) - Collaborative AI agents for intelligent customer service - seamlessly handle inquiries with specialized AI teams
-- 🎮 [GameAssetLab](https://github.com/soheil-mp/GameAssetLab) - AI-powered game asset generation studio - transform prompts into professional game-ready assets using Stable Diffusion
-- 🚗 [CarAutoPilot](https://github.com/soheil-mp/CarAutoPilot) - Advanced autonomous vehicle development platform - research and develop self-driving algorithms in AirSim environment
-- 🛸 [SkyPilot](https://github.com/soheil-mp/SkyPilot)
+- 📚 [DocChat](https://github.com/soheil-mp/DocChat) - RAG-powered document Q&A system
+- 🌐 [WebVoyager](https://github.com/soheil-mp/WebVoyager) - Autonomous web navigation tool
+- 🤖 [AgentHub](https://github.com/soheil-mp/AgentHub) - Multi-agent customer service system
+- 🎮 [GameAssetLab](https://github.com/soheil-mp/GameAssetLab) - AI game asset generation using Stable Diffusion
+- 🚗 [CarAutoPilot](https://github.com/soheil-mp/CarAutoPilot) - Self-driving car with CARLA simulator
+- 🛸 [SkyPilot](https://github.com/soheil-mp/SkyPilot) - Autonomous drone navigation in AirSim
+
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/soheilmp)
