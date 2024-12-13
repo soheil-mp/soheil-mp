@@ -16,25 +16,18 @@ Turning coffee into code and data into decisions! Senior Data Scientist with a k
 
 ## 🛠️ Technical Stack
 ### Core Technologies
-- 🐍 Python | SQL | C++ | R
-- 🤖 TensorFlow | PyTorch | JAX | Scikit-learn
-- 🔮 LangChain | LangGraph | CrewAI | Autogen
-- 📊 Tableau | Power BI | Looker
+- 🐍 Python | SQL | C++ | C | R | Shell
+- 🤖 TensorFlow | PyTorch | JAX | Scikit-learn | Statsmodels | XGBoost | Keras
+- 🔮 LangChain | LangGraph | CrewAI | Autogen | LlamaIndex | Hugging Face | Transformers
+- 📊 Tableau | Power BI | Looker | Excel | Power Query
+- 📈 NumPy | Pandas | SciPy | Matplotlib | Seaborn | Plotly | Bokeh | ggplot | Dash
 
 ### Infrastructure & Tools
 - ☁️ AWS | Azure | Google Cloud
-- 🐳 Docker | Kubernetes | MLflow
-- 🔄 Apache Airflow | Spark | Kafka | Hadoop
-- 💾 MySQL | PostgreSQL | SQLite | SQL Server
-
-## 🔭 Current Ongoing Projects
-- 📚 [DocChat](https://github.com/soheil-mp/DocChat) - RAG-powered document Q&A system
-- 🌐 [WebVoyager](https://github.com/soheil-mp/WebVoyager) - Autonomous web navigation tool
-- 🤖 [AgentHub](https://github.com/soheil-mp/AgentHub) - Multi-agent customer service system
-- 🎮 [GameAssetLab](https://github.com/soheil-mp/GameAssetLab) - AI game asset generation using Stable Diffusion
-- 🚗 [CarAutoPilot](https://github.com/soheil-mp/CarAutoPilot) - Self-driving car with CARLA simulator
-- 🛸 [SkyPilot](https://github.com/soheil-mp/SkyPilot) - Autonomous drone navigation in AirSim
-
+- 🐳 Docker | Kubernetes | MLflow | Git
+- 🔄 Apache Airflow | Spark | Kafka | Hadoop | Databricks | Dask | PySpark
+- 💾 MySQL | PostgreSQL | SQLite | Redis | MongoDB | Snowflake
+- 🔧 Pinecone | ChromaDB | FAISS | Gradio | Streamlit
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/soheilmp)
