@@ -1,6 +1,6 @@
 
 
-<h4 align="center"><samp> Hi there 👋🏾 Solving puzzles that masquerade as data. My tool of choice is Python 🐍 </samp></h4>
+<h3 align="center"><samp> Solving puzzles that masquerade as data 🐍 </samp></h3>
 
 
 
