@@ -1,6 +1,6 @@
 
 
-<h3 align="center"><samp> Solving puzzles masquerade as data 🐍 </samp></h3>
+<!-- <h3 align="center"><samp> Solving puzzles masquerade as data 🐍 </samp></h3> -->
 
 
 
